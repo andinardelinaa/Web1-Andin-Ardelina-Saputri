@@ -69,6 +69,26 @@ style background color digunankan untuk membuat latar belakang warna text
 
 <img width="487" alt="div3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/34524553-e37d-4806-8c63-a0c036f155b8">
 
+**7.Challenge1**
+<img width="396" alt="challenge1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/630863c2-dbf8-42b3-b405-7b8c04fd9313">
+
+Challenge ini membuat text dari highlight dengan menggunakan elemet <nark>, < border-left > untuk membuat paragraf sedikit bergeser ke kiri, menampahkan link yang dibisa diklik dengan element < a href >
+
+<img width="899" alt="challenge2" 
+  src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/893704e3-37f6-4771-892d-70f2bfea81bc">
+
+
+**8.Challenge2**
+
+<img width="384" alt="challenge3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/993ae382-1762-44cc-a6ee-62df997a81ba"> 
+
+ini adalah contoh dokumen html membuat tabel, dengan element < table >, < tr > digunakan untuk baris yang akan dibuatkan tabel, < rowspan > untuk menggabungkan beberapa kolom dalam tabel.
+
+<img width="372" alt="challenge4" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/b08bd1af-f3ab-4976-a245-571872b2f172">
+
+**B.CSS**
+
+
 
 
 
