@@ -60,6 +60,18 @@ style background color digunankan untuk membuat latar belakang warna text
 <img width="328" alt="list3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/1b119e9a-406e-44a1-aa1e-d4a55ac83a12">
 
 
+**6.Div**
+
+<img width="395" alt="div1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/702c98b5-cf19-4bcc-aea5-e44eeb33e139">  <img width="359" alt="div2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/622e22a6-4391-4d9f-9e32-932d002ce281">
+
+
+< div > adalah element yang digunakan untuk mengelompokan bagian halaman web menjadi satu, < background-color > digunakan untuk mengubah warna latar belakang pada teks
+
+<img width="487" alt="div3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/34524553-e37d-4806-8c63-a0c036f155b8">
+
+
+
+
 
 
 
