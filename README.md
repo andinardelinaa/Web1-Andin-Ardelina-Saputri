@@ -43,6 +43,19 @@ style background color digunankan untuk membuat latar belakang warna text
 <img width="635" alt="color1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/668d167e-70ec-4179-92b2-162f61332d68">
 <img width="621" alt="color2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/7e66bac5-bf21-426e-8de8-7f61ca899b82">
 
+**4.formatting**
+
+<img width="738" alt="text1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/c5c6176c-cc09-4f2e-aacb-95791aaae6e6">
+
+< i > untuk font italic, < em > agar font emphaisized, < small > agar font lebih mengecil, < mark > untuk highlight font yang diinginkan,  < del > mencoreng yang tidak diperlukan, < sub > agar font turun, < sup > agar font naik ke atas
+
+<img width="444" alt="text" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/71d13b13-f988-4324-815f-767a755efa72">
+
+
+
+
+
+
 
 
 
