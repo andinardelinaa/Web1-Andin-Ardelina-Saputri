@@ -1,6 +1,6 @@
 # PraktikumWeb1
 
-**A. HTML**
+## A. HTML
 
 HTML (Hyper Text Markup Language) bahasa pemrograman untuk membuat halaman Web, menjelaskan struktur halaman Web, yang terdiri dari serangkaian elemen.
 
@@ -89,7 +89,8 @@ ini adalah contoh dokumen html membuat tabel, dengan element < table >, < tr > d
 
 <img width="372" alt="challenge4" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/b08bd1af-f3ab-4976-a245-571872b2f172">
 
-**B. CSS**
+
+## B. CSS
 
 CSS adalah singkatan dari Cascading Style Sheet. 
 
@@ -100,7 +101,7 @@ CSS digunakan untuk menentukan gaya halaman web Anda, termasuk desain, tata leta
 
 
 
-**1. ContohCSS**
+**1. Contoh CSS**
 
 <img width="269" alt="contoh css" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/c5d523df-188c-47f4-9cf7-6ce022f1a1bc">
 
@@ -201,7 +202,88 @@ menyantumkan link e-learning yang dikemas dalam < a href >, untuk membuka dengan
 <img width="923" alt="live2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/4f42925f-1c13-4dbe-adde-2149ee441bd6">
 
 
-**C. JavaScript**
+## C. JavaScript
+
+JavaScript adalah bahasa pemrograman paling populer.
+
+JavaScript adalah bahasa pemrograman Web.
+
+Salah satu dari banyak metode JavaScript HTML adalah getElementById().
+
+Contoh di bawah ini "menemukan" elemen HTML (dengan id="demo"), dan mengubah konten elemen (innerHTML) menjadi "Halo JavaScript":
+
+<img width="303" alt="example" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/a6845af7-6e76-4e3f-b664-a356b901dce9">
+
+<img width="182" alt="example2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/2a743ae7-4581-4d78-b95a-fd2655003035">
+
+
+**1. Aritmathic**
+
+<img width="331" alt="aritmathic" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/3bcd46b4-123f-4f80-b65c-4a9b9e471614">
+
+penulisan JavaScript ditulis di dalam element Script. 
+
+memanggil dengan menggunakan document.getElementid sesuai dengan style yang digunakan.
+
+<img width="329" alt="aritmathic2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/144a0962-eb7b-45b9-b1cc-ebd9e065fcf3">
+
+
+**2. Tipe Data Number**
+
+<img width="274" alt="tipe" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/4a152b88-cf3a-48d5-852d-32b77d5006ca">
+
+pemanggilan dalam dokumen ini menggunakan id, untuk menampilkan apa yang diinginkan dapat menggunakan variabel yang sudah dituliskan dalam script.
+
+<img width="224" alt="tipe2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/cb9938ff-82cc-4e77-8506-c189b0883d2c">
+
+
+**3. Function**
+
+<img width="296" alt="function" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/7a67ccfc-d242-4a84-b83b-40e538cf27c5">
+
+functionkata kunci, diikuti dengan nama , diikuti dengan tanda kurung () .
+
+Nama fungsi dapat berisi huruf, angka, garis bawah, dan tanda dolar.
+
+Tanda kurung dapat menyertakan nama parameter yang dipisahkan dengan koma:
+( parameter1, parameter2, ... )
+
+Kode yang akan dieksekusi, berdasarkan fungsi, ditempatkan di dalam tanda kurung kurawal: {}
+
+<img width="247" alt="function2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/c731816a-fd47-4ca0-bf3c-e2d27eab453f">
+
+
+**4. Challenge 1**
+
+<img width="295" alt="1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/db2343a1-bfc1-4665-9918-dc4fde428516">
+
+<img width="306" alt="2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/addc3161-7f70-4801-8290-187ab31067e9">
+
+menggunakan style internal, dalam tr diberi style hover dimana ketika mouse menyenggol tabel akan ada efek berganti warna.
+
+dalam script ada tiga function hitung untuk menghitung nilai yang di tampilkan, dan fungsi tampil untuk menampilkan hasil ketika mouse menyenggol tabel hasil (menggunakan mouseover). 
+fungsi hilang untuk menghilangkan tampilan hasil ketika mouse pergi dari tabel (mengguunakan onmouseout)
+
+<img width="266" alt="3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/b2d59dc7-56a1-46a9-a3d7-174bebcc3b84">
+
+
+**5. Challenge 2**
+
+<img width="286" alt="a1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/0807cc40-c659-4ec1-9d16-611c959c4442">
+
+<img width="215" alt="a2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/0c679c9a-04dd-4957-9a5a-85f5d59a37c4">
+
+<img width="184" alt="a3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/997cbb46-9a96-4a1e-83e6-ef4c11fd4314">
+
+menggunakan style internal memberi function ganti gambar dan tampil gambar.
+
+
+<img width="131" alt="a4" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/600fb6ca-38fe-4b68-a03c-a59b58931836">
+
+
+
+
+
 
 
 
