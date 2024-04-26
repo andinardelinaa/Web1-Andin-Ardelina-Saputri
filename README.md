@@ -72,6 +72,7 @@ style background color digunankan untuk membuat latar belakang warna text
 
 
 **7. Challenge1**
+
 <img width="396" alt="challenge1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/630863c2-dbf8-42b3-b405-7b8c04fd9313">
 
 Challenge ini membuat text dari highlight dengan menggunakan elemet <nark>, < border-left > untuk membuat paragraf sedikit bergeser ke kiri, menampahkan link yang dibisa diklik dengan element < a href >
@@ -166,6 +167,47 @@ menggunakan  < div. > untuk membuat id yang berbeda.
 menggunakan style internal
 
 <img width="365" alt="textdecor3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/e92d1851-c6e2-4d4f-94f9-97888710d8fe">
+
+**7. Challenge 1**
+
+<img width="391" alt="c1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/a5ac93be-9204-4524-a597-aaf28d94615f">
+
+dokumen ini menggunakan style internal, menggunakan border dotted untuk membuat border garis putus putus
+
+style yang digunakan dengan  memanggil nama element.
+
+<img width="958" alt="c2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/e80f2458-67ab-4bf5-88da-8e9b38c10427">
+
+
+**8. Challenge 2**
+
+<img width="334" alt="chal1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/891aa73b-e4a4-4264-8742-7f7c4bce12dc"> 
+
+<img width="364" alt="chal2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/b0ac91ee-1777-4de1-b62a-2f472ea1aec8">
+
+menggunakan style internal, menggunakan style hover untuk membuat ketika mouse menyenggol tabel, tabel akan berwarna dan ber efek.
+
+<img width="909" alt="chal3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/a661f779-50d1-4d1c-aa06-7ccb95af502c">
+
+
+**9. Challenge 3**
+
+<img width="376" alt="live" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/c78af0f4-6dd1-48ed-acb6-dc05a50028a9">
+
+dokumen ini menggunakan style internal, dengan border solid, 
+
+menyantumkan link e-learning yang dikemas dalam < a href >, untuk membuka dengan tab baru dapat dilakukan dengan perintah ( target: _blank )
+
+<img width="923" alt="live2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/4f42925f-1c13-4dbe-adde-2149ee441bd6">
+
+
+**C. JavaScript**
+
+
+
+
+
+
 
 
 
