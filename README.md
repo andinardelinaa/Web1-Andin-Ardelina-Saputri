@@ -6,13 +6,13 @@ HTML (Hyper Text Markup Language) bahasa pemrograman untuk membuat halaman Web, 
 
 HTML dideklarasikan dengan < !DOCTYPE html > yang menunjukan bahwa dokumen ini adalah dokumen HTML
 
-Elemen < html > adalah elemen akar dari halaman HTML
+Tag < html > adalah Tag akar dari halaman HTML
 
-Elemen < head > berisi informasi meta tentang halaman HTML
+Tag < head > berisi informasi meta tentang halaman HTML
 
-Elemen < title > menentukan judul untuk halaman HTML (yang ditampilkan di bilah judul browser atau di tab halaman)
+Tag < title > menentukan judul untuk halaman HTML (yang ditampilkan di bilah judul browser atau di tab halaman)
 
-Elemen < body > mendefinisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.
+Tag < body > mendefinisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.
 
 
 **1. Basic html**
@@ -55,7 +55,11 @@ style background color digunankan untuk membuat latar belakang warna text
 
 <img width="354" alt="list1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/55adbee9-a9e1-4176-a621-d7e93ab62035">  <img width="284" alt="list2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/8cfc59ab-6da9-498a-aaaa-7d0ebb9b20da">
 
-< ul > digunakan untuk unordered list, < ol > digunakan untuk ordered list, < li > untuk isi konten dalam list.
+< ul > digunakan untuk unordered list
+
+< ol > digunakan untuk ordered list
+
+< li > untuk isi konten dalam list.
 
 <img width="328" alt="list3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/1b119e9a-406e-44a1-aa1e-d4a55ac83a12">
 
@@ -65,7 +69,9 @@ style background color digunankan untuk membuat latar belakang warna text
 <img width="395" alt="div1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/702c98b5-cf19-4bcc-aea5-e44eeb33e139">  <img width="359" alt="div2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/622e22a6-4391-4d9f-9e32-932d002ce281">
 
 
-< div > adalah element yang digunakan untuk mengelompokan bagian halaman web menjadi satu, < background-color > digunakan untuk mengubah warna latar belakang pada teks
+< div > adalah tag yang digunakan untuk mengelompokan bagian halaman web menjadi satu
+
+< background-color > digunakan untuk mengubah warna latar belakang pada teks
 
 <img width="487" alt="div3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/34524553-e37d-4806-8c63-a0c036f155b8">
 
@@ -75,7 +81,11 @@ style background color digunankan untuk membuat latar belakang warna text
 
 <img width="396" alt="challenge1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/630863c2-dbf8-42b3-b405-7b8c04fd9313">
 
-Challenge ini membuat text dari highlight dengan menggunakan elemet <nark>, < border-left > untuk membuat paragraf sedikit bergeser ke kiri, menampahkan link yang dibisa diklik dengan element < a href >
+Challenge ini membuat text dari highlight dengan menggunakan tag <nark>
+
+< border-left > untuk membuat paragraf sedikit bergeser ke kiri
+
+menambahkan link yang dibisa diklik dengan tag < a href >
 
 <img width="899" alt="challenge2" 
   src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/893704e3-37f6-4771-892d-70f2bfea81bc">
@@ -85,7 +95,11 @@ Challenge ini membuat text dari highlight dengan menggunakan elemet <nark>, < bo
 
 <img width="384" alt="challenge3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/993ae382-1762-44cc-a6ee-62df997a81ba"> 
 
-ini adalah contoh dokumen html membuat tabel, dengan element < table >, < tr > digunakan untuk baris yang akan dibuatkan tabel, < rowspan > untuk menggabungkan beberapa kolom dalam tabel.
+ini adalah contoh dokumen html membuat tabel, dengan tag < table >
+
+< tr > digunakan untuk baris yang akan dibuatkan tabel
+
+< rowspan > untuk menggabungkan beberapa kolom dalam tabel.
 
 <img width="372" alt="challenge4" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/b08bd1af-f3ab-4976-a245-571872b2f172">
 
@@ -105,7 +119,7 @@ CSS digunakan untuk menentukan gaya halaman web Anda, termasuk desain, tata leta
 
 <img width="269" alt="contoh css" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/c5d523df-188c-47f4-9cf7-6ce022f1a1bc">
 
-untuk membuat atau memformathalaman web yang akan ditampilkan dapat dimasukan ke dalam style, pemakaian style menggunakan kuruang kurawal "{}".
+untuk membuat atau memformat halaman web yang akan ditampilkan dapat dimasukan ke dalam style, pemakaian style menggunakan kuruang kurawal "{}".
 
 <img width="920" alt="contoh css2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/2cddfc8a-6cea-44da-a887-d6be09708aa3">
 
@@ -152,7 +166,7 @@ style ini ditulis dengan menggunakan nama elemen yang akan ditampilkan.
 
 <img width="379" alt="box" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/1a117e78-1c99-40f8-a329-646b1f7682f8">
 
-dokumen ini menggunakan style internal dengan menggunnakan nama elemen  < div > height dan width adalah untuk membuat panjang dan lebar box sessuai yang di inginkan
+dokumen ini menggunakan style internal dengan menggunnakan nama tag  < div > height dan width adalah untuk membuat panjang dan lebar box sessuai yang di inginkan
 
 menggunakan  < div. > untuk membuat id yang berbeda.
 
@@ -175,7 +189,7 @@ menggunakan style internal
 
 dokumen ini menggunakan style internal, menggunakan border dotted untuk membuat border garis putus putus
 
-style yang digunakan dengan  memanggil nama element.
+style yang digunakan dengan  memanggil nama tag.
 
 <img width="958" alt="c2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/e80f2458-67ab-4bf5-88da-8e9b38c10427">
 
@@ -186,7 +200,11 @@ style yang digunakan dengan  memanggil nama element.
 
 <img width="364" alt="chal2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/b0ac91ee-1777-4de1-b62a-2f472ea1aec8">
 
-menggunakan style internal, menggunakan style hover untuk membuat ketika mouse menyenggol tabel, tabel akan berwarna dan ber efek.
+menggunakan style internal
+
+menggunakan style hover untuk membuat ketika mouse menyenggol tabel
+
+tabel akan berwarna dan ber efek.
 
 <img width="909" alt="chal3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/a661f779-50d1-4d1c-aa06-7ccb95af502c">
 
@@ -197,7 +215,9 @@ menggunakan style internal, menggunakan style hover untuk membuat ketika mouse m
 
 dokumen ini menggunakan style internal, dengan border solid, 
 
-menyantumkan link e-learning yang dikemas dalam < a href >, untuk membuka dengan tab baru dapat dilakukan dengan perintah ( target: _blank )
+menyantumkan link e-learning yang dikemas dalam < a href >
+
+untuk membuka dengan tab baru dapat dilakukan dengan perintah ( target: _blank )
 
 <img width="923" alt="live2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/4f42925f-1c13-4dbe-adde-2149ee441bd6">
 
@@ -210,7 +230,7 @@ JavaScript adalah bahasa pemrograman Web.
 
 Salah satu dari banyak metode JavaScript HTML adalah getElementById().
 
-Contoh di bawah ini "menemukan" elemen HTML (dengan id="demo"), dan mengubah konten elemen (innerHTML) menjadi "Halo JavaScript":
+Contoh di bawah ini "menemukan" tag HTML (dengan id="demo"), dan mengubah konten tag (innerHTML) menjadi "Halo JavaScript":
 
 <img width="303" alt="example" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/a6845af7-6e76-4e3f-b664-a356b901dce9">
 
@@ -221,7 +241,7 @@ Contoh di bawah ini "menemukan" elemen HTML (dengan id="demo"), dan mengubah kon
 
 <img width="331" alt="aritmathic" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/3bcd46b4-123f-4f80-b65c-4a9b9e471614">
 
-penulisan JavaScript ditulis di dalam element Script. 
+penulisan JavaScript ditulis di dalam tag Script. 
 
 memanggil dengan menggunakan document.getElementid sesuai dengan style yang digunakan.
 
