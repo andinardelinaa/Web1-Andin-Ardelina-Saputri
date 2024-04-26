@@ -69,6 +69,8 @@ style background color digunankan untuk membuat latar belakang warna text
 
 <img width="487" alt="div3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/34524553-e37d-4806-8c63-a0c036f155b8">
 
+
+
 **7. Challenge1**
 <img width="396" alt="challenge1" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/630863c2-dbf8-42b3-b405-7b8c04fd9313">
 
@@ -142,6 +144,33 @@ dapat berisikan background color untuk membuat warna latar belakang.
 style ini ditulis dengan menggunakan nama elemen yang akan ditampilkan.
 
 <img width="924" alt="font2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/7365fee8-c7e0-450d-a2d7-6718da951a23">
+
+
+**5. Height n Width Box**
+
+<img width="379" alt="box" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/1a117e78-1c99-40f8-a329-646b1f7682f8">
+
+dokumen ini menggunakan style internal dengan menggunnakan nama elemen  < div > height dan width adalah untuk membuat panjang dan lebar box sessuai yang di inginkan
+
+menggunakan  < div. > untuk membuat id yang berbeda.
+
+<img width="923" alt="box2" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/085a8890-aaf4-41a9-8add-2da0a9d1e435">
+
+**6. Text Decoration**
+
+<img width="302" alt="textdecor" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/e31f58ff-ebf6-494e-9ce0-ab1ee5de602a">
+
+<img width="382" alt="textdecor2" 
+  src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/ba40c302-f1ba-4151-8e63-382ae7695bd7">
+
+menggunakan style internal
+
+<img width="365" alt="textdecor3" src="https://github.com/andinardelinaa/Web1-Andin-Ardelina-Saputri/assets/167949211/e92d1851-c6e2-4d4f-94f9-97888710d8fe">
+
+
+
+
+
 
 
 
